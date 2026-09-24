@@ -1,3 +1,4 @@
 1.pasar por las compras
 2. editando texto 
 3. ejemplo para pull
+ejemplo de pull 2 
